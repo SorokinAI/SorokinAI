@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhtmlacademy.ru%2Fblog%2Fjob%2Flearning-path&psig=AOvVaw0Pl01yF7pOK0uTXMM1NEvB&ust=1719091899871000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPC2ycHS7YYDFQAAAAAdAAAAABAR)">
+<img src="https://cs1.htmlacademy.ru/blog/job/learning-path/a80e80ce969d079be0cadd58b2066f68.gif">
 
