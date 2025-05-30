@@ -1,5 +1,5 @@
 <h1>
-  Hi, IT! Welcome on my GitHub | Хай, Айти!
+  Добро пожаловать на мой GitHab!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 Меня зовут Сорокин Арсений, мне 14 лет. 
@@ -10,8 +10,8 @@
 Python, Flask, Django, SQL, SQLAlchemy, HTML, CSS, Telebot, git, Linux, PuTTY, FileZilla
 
 Русский язык - Native🇷🇺<br>
-The Engish lang. - A2-B1🇺🇸<br>
-Deutsch Sprache - A1🇩🇪<br>
+Engish - A2-B1🇺🇸<br>
+Deutsch - A1🇩🇪<br>
 
 <!--
 **SorokinAI/SorokinAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
